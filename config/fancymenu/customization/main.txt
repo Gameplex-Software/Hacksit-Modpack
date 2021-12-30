@@ -1,0 +1,169 @@
+type = menu
+
+customization-meta {
+  identifier = be.nevoka.morerefinedstorage.gui.GuiCustomMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -78
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=400382%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -6
+}
+
+customization {
+  identifier = %id=502382%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = -54
+}
+
+customization {
+  identifier = %id=376382%
+  width = 19
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -102
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -54
+}
+
+customization {
+  identifier = %id=502346%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -54
+}
+
+customization {
+  path = resources/minecraft-make-book-and-quill-step-1.png
+  orientation = mid-right
+  x = -124
+  width = 124
+  actionid = 63608197-93c3-494f-b623-d7a4fbded7861627258347056
+  action = addtexture
+  y = -61
+  height = 87
+}
+
+customization {
+  path = resources/creators/tristanpoland.png
+  orientation = top-left
+  x = 841
+  width = 27
+  actionid = 20d843eb-2632-4e1a-8ec1-2490733f18711627258770706
+  action = addtexture
+  y = 256
+  height = 27
+}
+
+customization {
+  orientation = mid-right
+  shadow = true
+  x = -105
+  actionid = abe8eb43-e0c5-44dd-9570-45055abcc92c1627258814303
+  action = addtext
+  y = -56
+  scale = 1.0
+  alignment = left
+  value = Modpack Creator
+}
+
+customization {
+  orientation = mid-right
+  shadow = true
+  x = -90
+  actionid = 8ce2d2a4-fc43-44e5-994c-3e01c32c87d11627258864609
+  action = addtext
+  y = -36
+  scale = 1.0
+  alignment = left
+  value = Tristan Poland
+}
+
+customization {
+  orientation = mid-right
+  buttonaction = openlink
+  x = -112
+  width = 100
+  actionid = 97d7d06f-0d94-4da0-a339-2510e78b07ab1628886055635
+  action = addbutton
+  y = 3
+  label = About Developer
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  shadow = false
+  x = -69
+  actionid = 4d0110b6-15b7-4679-b1d7-104c0a3ad2531628854852988
+  action = addtext
+  y = 77
+  scale = 1.0
+  alignment = left
+  value = Welcome back %playername%!
+}
+
+customization {
+  path = resources/mainmenu/title2.png
+  orientation = top-centered
+  x = -186
+  width = 373
+  actionid = 8cc55ceb-39a7-4234-8dc3-c881a85393261628884078955
+  action = addtexture
+  y = 0
+  height = 100
+}
+

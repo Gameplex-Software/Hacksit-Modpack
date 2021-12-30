@@ -1,0 +1,39 @@
+type = menu
+
+customization-meta {
+  identifier = about-dev
+  renderorder = foreground
+}
+
+customization {
+  path = resources/minecraft-make-book-and-quill-step-1.png
+  orientation = mid-centered
+  x = -179
+  width = 359
+  action = addtexture
+  y = -168
+  height = 337
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  multiline = true
+  x = -121
+  action = addwebtext
+  y = -158
+  scale = 1.0
+  url = https://tristanpoland.github.io/about-basic.txt
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  centered = false
+  x = -27
+  action = addtext
+  y = 145
+  scale = 1.0
+  value = ESC to exit
+}
+

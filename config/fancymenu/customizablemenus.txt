@@ -1,0 +1,8 @@
+type = customizablemenus
+
+be.nevoka.morerefinedstorage.gui.GuiCustomMainMenu {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+

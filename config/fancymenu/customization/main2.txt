@@ -1,0 +1,85 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = background
+}
+
+customization {
+  path = resources/minecraft-make-book-and-quill-step-1.png
+  orientation = mid-right
+  x = -119
+  width = 119
+  action = addtexture
+  y = -97
+  height = 100
+}
+
+customization {
+  path = resources/mainmenu/title2.png
+  orientation = top-centered
+  x = -186
+  width = 373
+  action = addtexture
+  y = 0
+  height = 100
+}
+
+customization {
+  orientation = top-centered
+  shadow = false
+  centered = false
+  x = -60
+  action = addtext
+  y = 79
+  scale = 1.0
+  value = Welcome TristanPoland
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  centered = false
+  x = -107
+  action = addtext
+  y = -93
+  scale = 1.0
+  value = Modpack Developer
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  centered = false
+  x = -80
+  action = addtext
+  y = -66
+  scale = 1.0
+  value = Tristan Poland
+}
+
+customization {
+  orientation = top-left
+  buttonaction = opencustomgui
+  x = 850
+  width = 100
+  action = addbutton
+  y = 278
+  label = About Developer
+  value = about-dev
+  height = 20
+}
+
+customization {
+  showname = false
+  orientation = top-left
+  crouching = false
+  x = 861
+  slim = false
+  action = addentity
+  y = 273
+  scale = 30
+  playername = TristanPoland
+  parrot = false
+}
+
