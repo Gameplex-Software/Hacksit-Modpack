@@ -3,7 +3,7 @@
 <h2><span style="color: #ff0000;">NOT A HACKED CLIENT</span></h2>
 <p><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">Please see our other project: Nexus Client&nbsp;</span></span></p>
 
-<p><img src="https://gameplex-software.github.io/CDN/hosted/haxit/banner.png" alt="Haxit Banner Image" /></p>
+<p><img src="https://gameplexsoftware.com/CDN/hosted/haxit/banner.png" alt="Haxit Banner Image" /></p>
 
 
 <h2>About</h2>
