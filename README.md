@@ -21,4 +21,4 @@
 
 <p><span style="font-size: 2.8rem; font-weight: 400;">Other modpacks</span></p>
 
-<p>to see my other modpacks please visit my website here:&nbsp;<a href="https://gameplex-software.github.io/gxhub/">https://gameplex-software.github.io/gxhub/</a></p>
+<a href="https://www.curseforge.com/members/trident_for_u/projects">Curseforge Profile</a></p>
